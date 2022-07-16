@@ -142,4 +142,4 @@ DROP TABLE person;
 DROP TABLE favorite_food;
 
 -- The Sakila Database
-
+DESC customer;
