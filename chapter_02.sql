@@ -143,3 +143,5 @@ DROP TABLE favorite_food;
 
 -- The Sakila Database
 DESC customer;
+
+-- The end
