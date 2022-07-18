@@ -1,5 +1,6 @@
 library(tidyverse)
 library(RMySQL)
+library(DBI)
 
 con = dbConnect(
     RMySQL::MySQL(),
