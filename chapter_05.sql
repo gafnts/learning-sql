@@ -93,5 +93,8 @@ WHERE (
 );
 
 
+SELECT * FROM actor
+UNION
+SELECT * from category;
 
 
